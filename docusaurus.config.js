@@ -17,9 +17,10 @@ const config = {
 
   // Configuration GitHub pages
   organizationName: 'FranckLM3', // Votre nom d'utilisateur GitHub
-  projectName: 'hackathon-nature-en-ville', // Nom du repo
+  projectName: 'hackathon-nature-ville', // Nom du repo
+  trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
