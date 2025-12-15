@@ -104,8 +104,63 @@ La locution **open source** fait référence à tout logiciel dont les codes son
 
 ---
 
-## 🚀 Pour aller plus loin
+## �️ Navigation rapide
 
-- [📖 Découvrir le projet](/docs/le-projet/presentation)
-- [📜 Lire le Manifeste des Friches](/docs/manifeste-friches)
-- [👋 Participer au hackathon](/docs/participer/qui-peut-participer)
+import DocCardList from '@theme/DocCardList';
+
+<div className="container">
+  <div className="row">
+    <div className="col col--6" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>📖 Le Projet</h3>
+        </div>
+        <div className="card__body">
+          <p>Découvrez le hackathon Nature en Ville, son histoire et sa méthode</p>
+        </div>
+        <div className="card__footer">
+          <a href="/hackathon-nature-en-ville/docs/le-projet/presentation" className="button button--primary button--block">Explorer</a>
+        </div>
+      </div>
+    </div>
+    <div className="col col--6" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>📦 Ressources du hackathon</h3>
+        </div>
+        <div className="card__body">
+          <p>Programme, données, infos pratiques et contacts</p>
+        </div>
+        <div className="card__footer">
+          <a href="/hackathon-nature-en-ville/docs/ressources-hackathon/index" className="button button--primary button--block">Consulter</a>
+        </div>
+      </div>
+    </div>
+    <div className="col col--6" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>✅ Avant le hackathon</h3>
+        </div>
+        <div className="card__body">
+          <p>Tout ce qu'il faut savoir pour bien se préparer</p>
+        </div>
+        <div className="card__footer">
+          <a href="/hackathon-nature-en-ville/docs/avant-le-hackathon" className="button button--primary button--block">Préparer</a>
+        </div>
+      </div>
+    </div>
+    <div className="col col--6" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>🏁 Pendant le hackathon</h3>
+        </div>
+        <div className="card__body">
+          <p>Règles, bonnes pratiques et déroulement</p>
+        </div>
+        <div className="card__footer">
+          <a href="/hackathon-nature-en-ville/docs/pendant-le-hackathon/index" className="button button--primary button--block">Découvrir</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

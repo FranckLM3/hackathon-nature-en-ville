@@ -14,68 +14,58 @@ const sidebars = {
     {
       type: 'category',
       label: '📖 Le Projet',
+      link: {
+        type: 'doc',
+        id: 'le-projet/index',
+      },
       items: [
         'le-projet/presentation',
-        'le-projet/pourquoi-marseille',
-        'le-projet/methode-hackathon',
         'le-projet/historique-germ',
       ],
     },
     {
       type: 'category',
-      label: '🌿 Thématiques',
+      label: '📦 Ressources du hackathon',
+      link: {
+        type: 'doc',
+        id: 'ressources-hackathon/index',
+      },
       items: [
-        'thematiques/index',
-        {
-          type: 'category',
-          label: 'Nature et Vivants',
-          items: [
-            'thematiques/friches',
-          ],
-        },
+        'ressources-hackathon/programme',
+        'ressources-hackathon/informations-pratiques',
+        'ressources-hackathon/donnees',
+        'ressources-hackathon/manifeste-friches',
+        'ressources-hackathon/contact',
+      ],
+    },
+    'avant-le-hackathon',
+    {
+      type: 'category',
+      label: '🏁 Pendant le hackathon',
+      link: {
+        type: 'doc',
+        id: 'pendant-le-hackathon/index',
+      },
+      items: [
+        'pendant-le-hackathon/choix-defi',
+        'pendant-le-hackathon/constitution-equipes',
+        'pendant-le-hackathon/mentors',
+        'pendant-le-hackathon/rendu-intermediaire',
+        'pendant-le-hackathon/soumission',
+        'pendant-le-hackathon/evaluation',
       ],
     },
     {
       type: 'category',
-      label: '🎯 Défis',
+      label: '✨ Après le hackathon',
+      link: {
+        type: 'doc',
+        id: 'apres-le-hackathon/index',
+      },
       items: [
-        'defis/index',
-        'defis/retour-hirondelles',
-        'defis/sols-vivants',
-        'defis/desimpermeabilisation',
-        'defis/conflits-usage',
-        'defis/trames-ecologiques',
+        'apres-le-hackathon/valorisation',
       ],
     },
-    {
-      type: 'category',
-      label: '📊 Données',
-      items: [
-        'donnees/index',
-        'donnees/sources',
-        'donnees/comment_utiliser',
-      ],
-    },
-    {
-      type: 'category',
-      label: '📚 Ressources',
-      items: [
-        'ressources/index',
-        'ressources/outils',
-        'ressources/inspirations',
-        'ressources/glossaire',
-      ],
-    },
-    {
-      type: 'category',
-      label: '👋 Participer',
-      items: [
-        'participer/qui-peut-participer',
-        'participer/inscription',
-        'participer/programme',
-      ],
-    },
-    'manifeste-friches',
   ],
 };
 

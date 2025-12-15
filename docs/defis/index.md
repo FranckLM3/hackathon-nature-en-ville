@@ -1,117 +1,128 @@
 ---
-sidebar_position: 1
-title: Les Défis
+sidebar_position: 0
 ---
 
-# Les défis identifiés
+# 🎯 Les Défis du Hackathon
 
-Issues des ateliers préparatoires (Apéro Donut #9 du 5 novembre 2025), voici les pistes de défis pour le hackathon.
+Bienvenue dans l'espace des défis ! Ces défis ont été identifiés lors des ateliers préparatoires et représentent des enjeux concrets pour la nature en ville à Marseille.
 
-:::info Liste évolutive
-Cette liste va s'enrichir jusqu'au hackathon. Vous pouvez proposer vos propres défis !
+:::info Approche collaborative
+Chaque défi a été élaboré selon la méthode des **tensions entre actants** : nous travaillons sur des problèmes réels identifiés par les citoyens et les acteurs du territoire.
+:::
+
+## 🗺️ Les 5 défis proposés
+
+<div className="container">
+  <div className="row">
+    <div className="col col--12" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>🦅 Défi 1 : Le retour des hirondelles</h3>
+        </div>
+        <div className="card__body">
+          <p><strong>Problématique :</strong> Comment favoriser le retour et la nidification des hirondelles à Marseille ?</p>
+          <p>Cartographie des sites de nidification, identification d'espaces propices, réseau de nichoirs, sensibilisation.</p>
+        </div>
+        <div className="card__footer">
+          <span className="badge badge--secondary">Biodiversité</span>
+          <span className="badge badge--secondary">Ornithologie</span>
+          <span className="badge badge--secondary">Cartographie</span>
+        </div>
+      </div>
+    </div>
+    <div className="col col--12" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>🌱 Défi 2 : Sols vivants</h3>
+        </div>
+        <div className="card__body">
+          <p><strong>Problématique :</strong> Augmenter la surface de sols vivants à Marseille et mesurer l'évolution.</p>
+          <p>Cartographie des sols, identification du potentiel, calcul de ratios, suivi dans le temps.</p>
+        </div>
+        <div className="card__footer">
+          <span className="badge badge--secondary">Pédologie</span>
+          <span className="badge badge--secondary">Cartographie</span>
+          <span className="badge badge--secondary">Indicateurs</span>
+        </div>
+      </div>
+    </div>
+    <div className="col col--12" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>💧 Défi 3 : Désimperméabilisation</h3>
+        </div>
+        <div className="card__body">
+          <p><strong>Problématique :</strong> Réduire l'imperméabilité des surfaces pour gérer les eaux pluviales et améliorer la biodiversité.</p>
+          <p>Cartographie des surfaces imperméables, priorisation des zones d'action, solutions de désimperméabilisation.</p>
+        </div>
+        <div className="card__footer">
+          <span className="badge badge--secondary">Hydrologie</span>
+          <span className="badge badge--secondary">Urbanisme</span>
+          <span className="badge badge--secondary">Climat</span>
+        </div>
+      </div>
+    </div>
+    <div className="col col--12" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>⚖️ Défi 4 : Conflits d'usage</h3>
+        </div>
+        <div className="card__body">
+          <p><strong>Problématique :</strong> Gérer les conflits entre différents usages de l'espace public (stationnement, terrasses, végétalisation).</p>
+          <p>Cartographie des tensions, outils de médiation, solutions d'aménagement partagé.</p>
+        </div>
+        <div className="card__footer">
+          <span className="badge badge--secondary">Sociologie</span>
+          <span className="badge badge--secondary">Médiation</span>
+          <span className="badge badge--secondary">Urbanisme</span>
+        </div>
+      </div>
+    </div>
+    <div className="col col--12" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>🕸️ Défi 5 : Trames écologiques</h3>
+        </div>
+        <div className="card__body">
+          <p><strong>Problématique :</strong> Créer et renforcer les corridors écologiques pour permettre la circulation de la faune et de la flore.</p>
+          <p>Cartographie des trames vertes et bleues, identification des ruptures, propositions de continuités.</p>
+        </div>
+        <div className="card__footer">
+          <span className="badge badge--secondary">Écologie</span>
+          <span className="badge badge--secondary">Paysage</span>
+          <span className="badge badge--secondary">Biodiversité</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+## 📋 Détails complets
+
+Pour accéder aux descriptions complètes de chaque défi avec toutes les pistes de travail et données nécessaires, consultez la page :
+
+👉 [**Voir tous les défis détaillés**](./defis)
+
+---
+
+## 💡 Comment choisir votre défi ?
+
+1. **Explorez** les descriptions ci-dessus
+2. **Identifiez** vos centres d'intérêt et compétences
+3. **Consultez** la page détaillée de chaque défi
+4. **Discutez** avec votre équipe
+5. **Choisissez** au début du hackathon
+
+:::tip Conseil
+Pas besoin d'être expert ! L'apprentissage collectif et la diversité des profils sont des forces du hackathon.
 :::
 
 ---
 
-## 🦅 Défi 1 : Le retour des hirondelles
+## 🚀 Prêt à commencer ?
 
-### 🎯 Problématique
-
-Comment favoriser le retour et la nidification des hirondelles à Marseille ?
-
-### 🔍 Contexte
-
-Les hirondelles sont des indicateurs de biodiversité urbaine. Leur déclin est alarmant.
-
-### 💡 Pistes de travail
-
-- Cartographier les sites de nidification existants
-- Identifier les espaces propices
-- Proposer un réseau de nichoirs
-- Sensibiliser à la protection
-
-### 📊 Données nécessaires
-
-- Observations ornithologiques
-- Bâtiments anciens
-- Points d'eau
-- Zones d'alimentation
-
-[Voir le défi détaillé →](/docs/defis/retour-hirondelles)
-
----
-
-## 🌱 Défi 2 : Sols vivants
-
-### 🎯 Problématique
-
-Augmenter la surface de sols vivants à Marseille et mesurer l'évolution.
-
-### 💡 Pistes de travail
-
-- Tableau de bord de suivi
-- Cartographie de l'évolution
-- Identification des priorités
-
-[Voir le défi détaillé →](/docs/defis/sols-vivants)
-
----
-
-## 📊 Défi 3 : Tableau de bord de la désimperméabilisation
-
-### 🎯 Problématique
-
-Créer un outil de pilotage pour mesurer l'artificialisation vs la désimperméabilisation à Marseille.
-
-### 🔍 Inspiration
-
-Le [dashboard Spallian](https://external.spallian.com/stat_dashboard.html?name=Artificialisation) fait cela à l'échelle nationale.
-
-[Voir le défi détaillé →](/docs/defis/desimpermeabilisation)
-
----
-
-## ⚖️ Défi 4 : Conflits d'usage
-
-### 🎯 Problématique
-
-Concilier les usages humains et les besoins de quiétude pour la biodiversité.
-
-### 🔍 Tensions identifiées
-
-- Jardins citoyens vs espaces de renaturation
-- Accès public vs zones de nidification
-- Espaces naturels privatisés
-
-[Voir le défi détaillé →](/docs/defis/conflits-usage)
-
----
-
-## 🗺️ Défi 5 : Trames écologiques fonctionnelles
-
-### 🎯 Problématique
-
-Créer des continuités écologiques fonctionnelles à Marseille.
-
-### 💡 Propositions
-
-- Cartographier écoles + friches
-- Proposer des trames ciblées par espèce
-- Visualisations sensibles du vivant
-
-[Voir le défi détaillé →](/docs/defis/trames-ecologiques)
-
----
-
-## 💡 Proposez votre défi !
-
-Vous avez identifié une problématique concrète ? 
-
-### Comment proposer
-
-1. Décrivez la "douleur"
-2. Identifiez les actants concernés
-3. Formulez une question
-4. Listez les données nécessaires
-
-Contactez-nous : contact@exemple.fr
+- [✅ Préparez votre participation](../participer/qui-peut-participer)
+- [📦 Explorez les ressources disponibles](../ressources/index)
+- [📖 Découvrez le projet](../le-projet/index)

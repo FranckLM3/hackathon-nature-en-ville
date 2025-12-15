@@ -188,7 +188,7 @@ Les **Apéros Donut** sont des rencontres préparatoires pour :
 
 ### 3. 🤝 Rejoindre la communauté
 
-- **Discord / Slack** : 🚧 Lien à venir
+- **Mattermost** : 🚧 Lien à venir
 - **Liste de diffusion** : 🚧 Lien à venir
 - **GitHub** : pour les ressources et données
 

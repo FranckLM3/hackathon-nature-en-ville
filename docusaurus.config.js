@@ -67,33 +67,15 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'thematiques/index',
+            docId: 'ressources-hackathon/index',
             position: 'left',
-            label: '🎯 Thématiques',
-          },
-          {
-            type: 'doc',
-            docId: 'defis/index',
-            position: 'left',
-            label: '⚡ Défis',
-          },
-          {
-            type: 'doc',
-            docId: 'donnees/index',
-            position: 'left',
-            label: '📊 Données',
-          },
-          {
-            type: 'doc',
-            docId: 'ressources/index',
-            position: 'left',
-            label: '📚 Ressources',
+            label: '📦 Ressources',
           },
           {
             type: 'doc',
             docId: 'participer/qui-peut-participer',
-            position: 'right',
-            label: '👋 Participer',
+            position: 'left',
+            label: '✅ Avant le hackathon',
           },
           {
             href: 'https://github.com/FranckLM3/hackathon-nature-ville',
