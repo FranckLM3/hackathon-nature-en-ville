@@ -50,9 +50,7 @@ Issues des ateliers préparatoires, voici quelques **pistes de réflexion** (lis
 - Aménagement participatif d'espaces verts
 - Politique publique et indicateurs de suivi
 
-:::info
-Consultez la page [**Défis identifiés**](../defis/defis.md) pour plus de détails sur les pistes issues des ateliers préparatoires.
-:::
+
 
 ## 💡 Comment définir votre projet ?
 

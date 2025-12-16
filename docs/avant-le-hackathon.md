@@ -16,18 +16,18 @@ Bienvenue ! Pour bien préparer votre participation au hackathon **Nature en Vil
 
 ### Découverte du hackathon
 
-* [ ] **Explorer les [pistes de réflexion](defis/defis.md)** issues des ateliers préparatoires
-* [ ] **Parcourir les [ressources disponibles](ressources-hackathon/index.md)** (données, outils, documentation)
-* [ ] **Lire le [manifeste des friches](ressources-hackathon/manifeste-friches.md)** pour comprendre le contexte
-* [ ] **Comprendre [le projet](le-projet/index.md)** et sa méthode
+* [ ] **Parcourir les [ressources disponibles](ressources-hackathon/index)** (données, outils, documentation)
+* [ ] **Lire le [manifeste des friches](ressources-hackathon/manifeste-friches)** pour comprendre le contexte
+* [ ] **Comprendre [le projet](le-projet/index)** et sa méthode
+* [ ] **Consulter le [programme du hackathon](ressources-hackathon/programme)**
 
 ### Constitution d'équipe
 
-* [ ] **Trouver une équipe** (3-8 personnes) :
+* [ ] **Trouver une équipe** (3-6 personnes) :
   * Vous pouvez venir seul·e, l'organisation facilitera la formation d'équipes
   * Ou constituer votre équipe avant le hackathon
 * [ ] **Identifier les compétences** de chacun dans votre équipe
-* [ ] **Discuter ensemble** des défis qui vous intéressent
+* [ ] **Discuter ensemble** de vos idées de projet
 
 ### Informations pratiques
 
@@ -74,19 +74,6 @@ Bienvenue ! Pour bien préparer votre participation au hackathon **Nature en Vil
     <div className="col col--4" style={{marginBottom: '1rem'}}>
       <div className="card">
         <div className="card__header">
-          <h4>🎯 Pistes de réflexion</h4>
-        </div>
-        <div className="card__body">
-          <p>Issues des ateliers préparatoires</p>
-        </div>
-        <div className="card__footer">
-          <a href="/hackathon-nature-en-ville/docs/defis/defis" className="button button--secondary button--sm button--block">Explorer</a>
-        </div>
-      </div>
-    </div>
-    <div className="col col--4" style={{marginBottom: '1rem'}}>
-      <div className="card">
-        <div className="card__header">
           <h4>📦 Ressources</h4>
         </div>
         <div className="card__body">
@@ -100,13 +87,26 @@ Bienvenue ! Pour bien préparer votre participation au hackathon **Nature en Vil
     <div className="col col--4" style={{marginBottom: '1rem'}}>
       <div className="card">
         <div className="card__header">
-          <h4>📖 Le Projet</h4>
+          <h4>� Le Projet</h4>
         </div>
         <div className="card__body">
           <p>Comprendre l'origine et la méthode</p>
         </div>
         <div className="card__footer">
           <a href="/hackathon-nature-en-ville/docs/le-projet/index" className="button button--secondary button--sm button--block">Découvrir</a>
+        </div>
+      </div>
+    </div>
+    <div className="col col--4" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h4>🏁 Pendant le hackathon</h4>
+        </div>
+        <div className="card__body">
+          <p>Règles et bonnes pratiques</p>
+        </div>
+        <div className="card__footer">
+          <a href="/hackathon-nature-en-ville/docs/pendant-le-hackathon/index" className="button button--secondary button--sm button--block">Consulter</a>
         </div>
       </div>
     </div>

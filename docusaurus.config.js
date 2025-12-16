@@ -96,25 +96,29 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Les thématiques',
-                to: '/docs/thematiques',
+                label: 'Le Projet',
+                to: '/docs/le-projet/index',
               },
               {
-                label: 'Les défis',
-                to: '/docs/defis',
+                label: 'Ressources',
+                to: '/docs/ressources-hackathon/index',
               },
             ],
           },
           {
-            title: 'Thématiques',
+            title: 'Hackathon',
             items: [
               {
-                label: 'Nature et Vivants',
-                to: '/docs/thematiques/friches',
+                label: 'Avant le hackathon',
+                to: '/docs/avant-le-hackathon',
               },
               {
-                label: 'Explorer',
-                to: '/docs/thematiques',
+                label: 'Pendant le hackathon',
+                to: '/docs/pendant-le-hackathon/index',
+              },
+              {
+                label: 'Après le hackathon',
+                to: '/docs/apres-le-hackathon/index',
               },
             ],
           },
@@ -122,16 +126,20 @@ const config = {
             title: 'Ressources',
             items: [
               {
+                label: 'Programme',
+                to: '/docs/ressources-hackathon/programme',
+              },
+              {
                 label: 'Données disponibles',
-                to: '/docs/donnees',
+                to: '/docs/ressources-hackathon/donnees',
               },
               {
-                label: 'Outils et méthodes',
-                to: '/docs/ressources',
+                label: 'Informations pratiques',
+                to: '/docs/ressources-hackathon/informations-pratiques',
               },
               {
-                label: 'Participer',
-                to: '/docs/participer/qui-peut-participer',
+                label: 'Contact',
+                to: '/docs/ressources-hackathon/contact',
               },
             ],
           },

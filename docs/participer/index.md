@@ -53,8 +53,8 @@ Une bonne préparation vous permettra de profiter pleinement du hackathon, de tr
 ### 1. Explorez le contexte
 
 - 📖 [Découvrez le projet](../le-projet/index) et sa méthode
-- 🎯 [Consultez les défis](../defis/index) proposés
-- 📦 [Parcourez les ressources](../ressources/index) disponibles
+- 📦 [Parcourez les ressources](../ressources-hackathon/index) disponibles
+- � [Consultez le programme](../ressources-hackathon/programme) du hackathon
 
 ### 2. Préparez-vous pratiquement
 
@@ -93,17 +93,6 @@ Les inscriptions ouvriront prochainement. Restez à l'écoute !
 
 <div className="container">
   <div className="row">
-    <div className="col col--4" style={{marginBottom: '1rem'}}>
-      <div className="card">
-        <div className="card__body">
-          <h4>🎯 Les Défis</h4>
-          <p>Familiarisez-vous avec les 5 défis proposés</p>
-        </div>
-        <div className="card__footer">
-          <a href="/hackathon-nature-en-ville/docs/defis/index" className="button button--secondary button--sm button--block">Explorer</a>
-        </div>
-      </div>
-    </div>
     <div className="col col--4" style={{marginBottom: '1rem'}}>
       <div className="card">
         <div className="card__body">
