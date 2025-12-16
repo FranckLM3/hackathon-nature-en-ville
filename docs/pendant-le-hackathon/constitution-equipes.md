@@ -4,9 +4,13 @@ sidebar_position: 2
 
 # 🤝 Constitution des équipes
 
+:::info Formation sur place
+La constitution des équipes se fait **sur place le jour #1 du hackathon** (vendredi soir), après les pitchs de projets et un temps d'échange entre participants.
+:::
+
 ## 👥 Taille des équipes
 
-Vous êtes invités à constituer **des équipes de 3 à 6 personnes** pour travailler sur votre projet.
+Formez **des équipes de 3 à 6 personnes** pour travailler sur votre projet.
 
 :::tip Taille optimale
 - **Minimum 3 personnes** : pour avoir une diversité de compétences
@@ -14,140 +18,65 @@ Vous êtes invités à constituer **des équipes de 3 à 6 personnes** pour trav
 - **Idéalement 4-5 personnes** : le bon équilibre !
 :::
 
-:::info Flexibilité
-Plusieurs équipes peuvent travailler sur des projets similaires avec des approches différentes. La diversité des solutions enrichit le hackathon !
-:::
+## 📅 Comment ça se passe le jour J ?
 
-## 📅 Quand et comment ?
+### Session de constitution des équipes (vendredi soir)
 
-### Avant le hackathon
-
-- **Sur Mattermost** : canal #recherche-equipe
-  - Présentez votre profil et vos compétences
-  - Partagez vos idées de projet
-  - Rejoignez des discussions thématiques
-  - Commencez à former des équipes
-
-### Le jour J (vendredi soir)
-
-Une **session dédiée de constitution des équipes** aura lieu le premier jour du hackathon :
-
-- **Horaire** : voir le [Programme détaillé](../ressources-hackathon/programme.md)
-- **Format** : 
-  - Pitch express des idées de projet (2 min par personne)
-  - Time de rencontre et d'échanges informels
-  - Finalisation des équipes
+1. **Pitchs express** : chaque personne peut présenter son idée de projet (2 min)
+2. **Temps d'échanges** : discussions libres entre participants
+3. **Formation des équipes** : regroupement autour des projets qui vous intéressent
+4. **Finalisation** : ajustements possibles durant la première soirée
 
 :::success Soyez flexibles
-Les équipes peuvent se finaliser et s'ajuster durant la première soirée du hackathon. Prenez le temps de trouver les bonnes personnes !
+Plusieurs équipes peuvent travailler sur des projets similaires avec des approches différentes. N'hésitez pas à rejoindre un projet qui vous inspire même si vous n'avez pas pitché d'idée !
 :::
 
-## 🎯 Bonnes pratiques pour constituer votre équipe
+## 🎯 Composer une équipe efficace
 
-### ✅ Diversité des profils
+### Diversité des profils
 
-Une équipe efficace combine différentes compétences :
+Une équipe performante combine différentes compétences :
 
-- [ ] **Développeurs / Data scientists** : pour le code et les traitements de données
-- [ ] **Designers / UX** : pour l'expérience utilisateur et l'interface
-- [ ] **Experts métiers** : écologues, urbanistes, géographes, etc.
-- [ ] **Communicants** : pour le pitch et la valorisation
-- [ ] **Chefs de projet** : pour l'organisation et la coordination
+- **Développeurs / Data scientists** : code et traitement de données
+- **Designers / UX** : expérience utilisateur et interface
+- **Experts métiers** : écologues, urbanistes, géographes, etc.
+- **Communicants** : pitch et valorisation
+- **Chefs de projet** : organisation et coordination
 
-:::tip Mix idéal
+:::tip
 Une équipe équilibrée = compétences techniques + expertise thématique + vision produit
 :::
 
-### ✅ Complémentarité
+### Points d'attention
 
-Au-delà des compétences techniques :
+Privilégiez :
+- ✅ La **complémentarité** des compétences
+- ✅ La **motivation commune** autour du projet
+- ✅ La **disponibilité** pendant toute la durée du hackathon
+- ✅ Le **bon esprit d'équipe**
 
-- [ ] **Mixité des niveaux d'expérience** : débutants + experts = apprentissage mutuel
-- [ ] **Variété des horizons** : secteur public, privé, associatif, recherche, étudiants
-- [ ] **Diversité des parcours** : différentes formations et expériences
-- [ ] **Équilibre de genre** : favoriser la mixité
+Évitez :
+- ❌ Équipes trop grandes (plus de 6) : difficultés de coordination
+- ❌ Équipes trop petites (moins de 3) : surcharge de travail
+- ❌ Profils trop similaires : manque de perspectives
 
-### ✅ Motivation et affinités
+## 🚀 Après la formation de l'équipe
 
-- [ ] **Intérêt commun** pour le projet choisi
-- [ ] **Disponibilité** pendant toute la durée du hackathon
-- [ ] **Esprit d'équipe** et bonne communication
-- [ ] **Objectifs partagés** : apprentissage, impact, compétition, networking ?
+Une fois votre équipe constituée :
 
-### ✅ Organisation interne
+1. **Nommez votre équipe** : un nom qui donne envie !
+2. **Désignez un référent** : pour la communication avec l'organisation
+3. **Créez votre canal d'équipe sur Mattermost** : pour coordonner votre travail pendant le hackathon
+4. **Informez l'organisation** : signalez la composition de votre équipe aux organisateurs sur place
 
-Dès la constitution de l'équipe :
+## 💬 En amont : préparez-vous sur Mattermost
 
-- [ ] **Nommez l'équipe** : un nom qui donne envie !
-- [ ] **Désignez un référent** : pour la communication avec l'organisation
-- [ ] **Créez un canal de communication** : WhatsApp, Telegram, Mattermost
-- [ ] **Définissez les rôles** : qui fait quoi ? (sans être trop rigide)
-- [ ] **Clarifiez les attentes** : que veut accomplir chacun ?
+Avant le hackathon, vous pouvez :
+- Vous présenter dans #présentations
+- Partager vos idées dans #idées-projets
+- Échanger avec les autres participants
 
-## 🚨 Pièges à éviter
-
-### ❌ Équipe trop grande
-- Difficultés de coordination
-- Dilution des responsabilités
-- Frustrations si tout le monde ne peut pas contribuer
-
-### ❌ Équipe trop petite
-- Surcharge de travail
-- Manque de compétences clés
-- Difficulté à couvrir tous les aspects du projet
-
-### ❌ Profils trop similaires
-- Manque de perspectives différentes
-- Lacunes sur certains aspects du projet
-- Solutions moins innovantes
-
-### ❌ Absence de communication
-- Malentendus sur les objectifs
-- Doublons dans le travail
-- Démotivation
-
-## 💬 Vous cherchez une équipe ?
-
-### Si vous avez une idée de projet
-
-1. **Préparez un pitch court** (2-3 minutes)
-   - Le problème que vous voulez résoudre
-   - Votre solution envisagée
-   - Les compétences que vous recherchez
-
-2. **Partagez-le sur Mattermost** (#recherche-equipe)
-
-3. **Présentez-le lors de la session** de constitution des équipes
-
-### Si vous cherchez un projet
-
-1. **Présentez vos compétences** sur Mattermost
-   - Votre background (études, expérience)
-   - Vos compétences techniques
-   - Ce qui vous intéresse dans "Nature en Ville"
-
-2. **Écoutez les pitchs** lors de la session
-
-3. **Contactez les porteurs** de projets qui vous inspirent
-
-## 📋 Formalisation de l'équipe
-
-Une fois votre équipe constituée, vous devrez la **déclarer officiellement** :
-
-- **Quand** : samedi soir (voir [Rendu intermédiaire](rendu-intermediaire.md))
-- **Comment** : via un formulaire en ligne
-- **Informations demandées** :
-  - Nom de l'équipe
-  - Liste des membres et leurs compétences
-  - Référent de l'équipe (contact)
-  - Description du projet envisagé
-
-:::info
-Cette déclaration permet à l'organisation de :
-- Connaître les équipes participantes
-- Adapter l'accompagnement si besoin
-- Organiser les phases d'évaluation
-:::
+Mais la **vraie formation des équipes se fera sur place** pour favoriser les rencontres et les échanges !
 
 ---
 

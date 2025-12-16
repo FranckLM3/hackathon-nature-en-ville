@@ -2,9 +2,11 @@
 sidebar_position: 4
 ---
 
-# 📊 Données disponibles
+# 📊 Données
 
-Cette page recense les principales sources de données disponibles pour votre participation au hackathon Nature en Ville.
+:::caution 🚧 À travailler
+Cette page recense les principales sources de données disponibles pour votre participation au hackathon Nature en Ville. La liste sera enrichie et précisée prochainement.
+:::
 
 :::info Données ouvertes
 Toutes les données ci-dessous sont en **open data** et librement réutilisables pour votre projet.

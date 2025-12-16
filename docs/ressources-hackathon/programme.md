@@ -2,7 +2,11 @@
 sidebar_position: 2
 ---
 
-# 📅 Programme du hackathon
+# 📅 Programme
+
+:::caution 🚧 À travailler
+Le programme détaillé ci-dessous est indicatif et sera précisé prochainement. Les horaires et activités sont susceptibles d'être modifiés.
+:::
 
 ## 📆 Vendredi 23 janvier 2026
 

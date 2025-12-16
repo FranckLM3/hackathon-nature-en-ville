@@ -53,17 +53,25 @@ const config = {
       image: 'img/social-card.jpg',
       
       navbar: {
-        title: 'Nature en Ville',
-        logo: {
-          alt: 'Logo Hackathon',
-          src: 'img/logo.svg',
-        },
+        title: '🌿 Hackathon Nature en Ville',
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '🌱 Le Projet',
+            label: '🏠 Accueil',
+          },
+          {
+            type: 'doc',
+            docId: 'le-projet/index',
+            position: 'left',
+            label: '📖 Le Projet',
+          },
+          {
+            type: 'doc',
+            docId: 'participer/index',
+            position: 'left',
+            label: '🎟️ Participer',
           },
           {
             type: 'doc',
@@ -72,15 +80,10 @@ const config = {
             label: '📦 Ressources',
           },
           {
-            type: 'doc',
-            docId: 'participer/qui-peut-participer',
-            position: 'left',
-            label: '✅ Avant le hackathon',
-          },
-          {
-            href: 'https://github.com/FranckLM3/hackathon-nature-ville',
-            label: 'GitHub',
+            href: 'https://framaforms.org/youpi-je-participe-au-hackathon-de-la-nature-en-ville-1765824450',
+            label: '✅ S\'inscrire',
             position: 'right',
+            className: 'navbar-cta-button',
           },
         ],
       },
@@ -89,32 +92,36 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Documentation',
+            title: 'Le Projet',
             items: [
               {
-                label: 'Introduction',
-                to: '/docs/intro',
+                label: 'Présentation',
+                to: '/docs/le-projet/presentation',
               },
               {
-                label: 'Le Projet',
-                to: '/docs/le-projet/index',
+                label: 'Porteur du projet',
+                to: '/docs/le-projet/porteur-projet',
               },
               {
-                label: 'Ressources',
-                to: '/docs/ressources-hackathon/index',
+                label: 'Partenaires',
+                to: '/docs/le-projet/partenaires',
+              },
+              {
+                label: 'Approche et thématique',
+                to: '/docs/le-projet/approche-thematique',
               },
             ],
           },
           {
-            title: 'Hackathon',
+            title: 'Participer',
             items: [
               {
-                label: 'Avant le hackathon',
-                to: '/docs/avant-le-hackathon',
+                label: 'S\'inscrire',
+                href: 'https://framaforms.org/youpi-je-participe-au-hackathon-de-la-nature-en-ville-1765824450',
               },
               {
-                label: 'Pendant le hackathon',
-                to: '/docs/pendant-le-hackathon/index',
+                label: 'Guide de participation',
+                to: '/docs/participer/index',
               },
             ],
           },
@@ -126,29 +133,29 @@ const config = {
                 to: '/docs/ressources-hackathon/programme',
               },
               {
-                label: 'Données disponibles',
+                label: 'Données',
                 to: '/docs/ressources-hackathon/donnees',
               },
               {
-                label: 'Informations pratiques',
-                to: '/docs/ressources-hackathon/informations-pratiques',
-              },
-              {
-                label: 'Contact',
-                to: '/docs/ressources-hackathon/contact',
+                label: 'Inspirations',
+                to: '/docs/ressources-hackathon/inspirations',
               },
             ],
           },
           {
-            title: 'Communauté',
+            title: 'Partenaires',
             items: [
               {
-                label: 'GERM\'',
-                href: 'https://germ-sud.fr/',
+                label: 'GERM',
+                href: 'https://www.germ-sud.fr/',
               },
               {
                 label: 'le Donut',
                 href: 'https://www.ledonut-marseille.com/',
+              },
+              {
+                label: 'Ville de Marseille',
+                href: 'https://www.marseille.fr/',
               },
             ],
           },

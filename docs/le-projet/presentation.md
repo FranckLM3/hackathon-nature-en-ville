@@ -4,124 +4,112 @@ sidebar_position: 1
 
 # Présentation du projet
 
-## 📅 Apéro Donut #9 - 5 novembre 2025
+## Hackathon Nature en Ville
+### Marseille, 23-24-25 janvier 2026
 
-Première session de brainstorming avec une quinzaine de participants pour définir les thématiques et défis.
-
-**Présents** : Jean-Michel, Olivier, Patrice, Franck, Florent, Marion, Laurent, Michel, Alex, Pauline, Laure, Jérôme, Nikiema, Elise
-
----
-
-## 🎯 Approche par les actants et leurs interactions
-
-Nous avons développé une **approche UX design** basée sur les interactions entre différents groupes d'actants.
-
-### Les 3 groupes d'actants
-
-#### 👥 Vivants humains
-- **Citoyens / Habitants** : riverains, usagers, promeneurs
-- **Agents territoriaux** : cantonniers, jardiniers, techniciens
-- **Élus locaux** : décideurs, porteurs de politiques publiques
-
-#### 🦋 Vivants non-humains
-- **Mammifères** : hérissons, chauves-souris, écureuils
-- **Insectes et sols** : abeilles, papillons, vers de terre
-- **Oiseaux** : hirondelles, moineaux, mésanges
-- **Poissons** : espèces des cours d'eau
-- **Plantes** : arbres, flore spontanée, végétation
-
-#### 🌊 Non-vivants
-- **Aléas climatiques** : canicules, sécheresses, pluies torrentielles
-- **Éléments naturels** : vents, rivières
-- **Infrastructures** : réseaux souterrains, bâti
+A l'heure du dérèglement climatique et des nombreux défis associés (économiques, sociaux, sanitaires et démocratiques), il nous apparaît impératif que Marseille soit réellement une **ville nature**, avec plus d'arbres, d'espaces verts, de rues végétalisées, de jardins collectifs, pédagogiques, de fermes urbaines, de champs, de friches, de couloirs de biodiversité et des continuités écologiques permettant de recréer des écosystèmes, des îlots de fraîcheur, d'améliorer la qualité de l'air et développer des cheminements piétons, de favoriser l'accès à l'eau et penser la gestion de nos ressources communes.
 
 ---
 
-## 💥 La méthode : identifier les tensions
+## 🎯 Le projet en bref
 
-:::info Principe clé
-**"Pas de douleur, pas de projet"**
+Fruit d'une collaboration avec l'association marseillaise **GERM'** (Gestion écologique et renaturation des milieux), ce projet vise à mettre les données et les nouvelles technologies au services de tous les vivants, dans un but de préservation et d'adaptation aux défis sociétaux qui les attendent.
 
-Nous travaillons sur des **tensions réelles** entre actants, pas sur des problèmes théoriques.
+Le milieu des nouvelles technologies fait l'objet de moult fantasmes, le numérique a par ailleurs une certaine empreinte écologique, et de leur côté, les défenseurs des vivants sont souvent perçus comme de doux rêveurs utopistes. La rencontre de GERM' et DONUT vient proposer une autre voie exploratoire pour sortir des clichés et stigmatisations en tout genre, avec pour but commun de mettre en lumière ce qui nous lie et repenser nos manière de faire.
+
+Le hackathon de la nature en ville espère donc **mobiliser les habitants, experts métiers & thématiques, agents, élus**, autour de la renaturation citoyenne et la présence et la gestion des espaces de nature de leur ville.
+
+---
+
+## 🔧 Concrètement
+
+Cela consiste à proposer un **cadre favorable** (lieu, victuailles, données, ressources, conseillers spécialisés, etc.) à des volontaires aux compétences variées sur une durée de **48h**, dans le but de :
+
+- 💡 Faire émerger des idées
+- 🛠️ Concevoir des prototypes de solutions pertinentes, low tech ou high tech
+- 📊 S'appuyer sur des constats factuels et produire des argumentaires
+- 📢 Proposer une caisse de résonance directe à des acteurs et problématiques de terrain
+- 🤝 Faciliter la coopération société civile et collectivités
+- 🎓 Favoriser l'encapacitation citoyenne
+
+---
+
+## 🌿 Les thématiques à croiser
+
+L'eau 💧, l'arbre 🌳, la biodiversité 🦋, la qualité de l'air 🌬️, les trames 🕸️, les mobilités 🚶, les parcs 🏞️, les jardins sous toutes leurs formes 🌻, les friches 🌿, les sols 🪱, etc. sont autant de sujets à croiser pour penser de manière **écosystémique** la question du vivre ensemble et du soin de tous les vivants à l'heure du réchauffement climatique.
+
+---
+
+## 🛠️ La méthode
+
+Il s'agira de :
+
+- 🔍 Chercher, utiliser et croiser des données
+- 🤝 Partager des connaissances, des pratiques et des expériences
+- 🔧 Construire des outils, des méthodes, des visuels ou des solutions de manière collaborative
+- 💡 Concrétiser des idées
+
+Sur fond d'**intelligence collective** en réunissant des citoyens de tous horizons.
+
+### Le format hackathon
+
+Cette approche s'appuie sur la méthode **hackathon** (contraction des termes hacking et marathon), processus créatif très utilisé dans le domaine de l'innovation numérique, dont l'organisation repose ici sur :
+
+- **Phase préparatoire** / Septembre 2024 – Décembre 2025 : ateliers et réunions publiques, animation d'une communauté, émergence des problématiques
+- **Phase évènementielle** / 23-24-25 janvier 2026 : le hackathon !
+
+---
+
+## 💡 Intelligence collective et innovation
+
+L'événement repose en premier lieu sur la **coopération, le partage et la mise à disposition libre** de données et productions intellectuelles.
+
+Notre approche s'appuie sur :
+- La philosophie **Open Data\***
+- Le travail en **Open Source\*\***
+
+:::warning Important
+Les données et les nouvelles technologies sont ici un **outil** et absolument pas une fin en soi. Elles sont au service de problématiques concrètes établies par les usagers.
 :::
 
-### Exemples de tensions identifiées
+### Notre conviction
 
-**🔴 Tension : Hirondelles vs Citadins**
-- Les hirondelles ont besoin de quiétude au printemps (nidification)
-- Les citadins veulent profiter des espaces verts au printemps
-- **Défi** : Comment concilier ces besoins ?
-
-**🔴 Tension : Arbres vs Réseaux urbains**
-- Les arbres ont besoin d'espace racinaire
-- Les réseaux souterrains occupent le sous-sol
-- **Défi** : Comment planter plus d'arbres en ville dense ?
-
-**🔴 Tension : Jardins citoyens vs Espaces de renaturation**
-- Les habitants veulent des jardins partagés actifs
-- La biodiversité a besoin d'espaces de quiétude
-- **Défi** : Comment définir les usages appropriés ?
-
-**🔴 Tension : Accessibilité vs Privatisation**
-- Volonté d'accès pour tous aux espaces naturels
-- Espaces naturels privatisés ou fermés
-- **Défi** : Quid de l'équité d'accès ?
+> L'innovation viendra, non pas des experts du domaine ou des technologies propriétaires, mais de la **collaboration des expertises**, des interactions produites par la **pluralité des profils** des participants et par l'accès et le partage des informations, des données et des algorithmes.
 
 ---
 
-## 💭 Questions émergentes
+## 👥 Vous êtes :
 
-Issues des discussions de l'Apéro Donut #9 :
+- 👴 Retraité, chômeur, étudiant
+- 🌱 Jardinier, botaniste, écologue, hydrologue
+- 🌾 Agriculteur, maraîcher
+- 🏗️ Architecte, urbaniste, paysagiste
+- 🏪 Commerçant, restaurateur, cuisinier, vigneron
+- 🌳 Élagueur, éboueur, cantonnier, gardien
+- 📚 Instituteur, bibliothécaire, médiateur, éducateur spécialisé
+- 👥 Représentant de fédération de parents d'élèves, d'un CIQ
+- 💻 Développeur, codeur, datascientist, graphiste
+- ⚖️ Juriste, avocat, chercheur
+- 🏛️ Élu, agent territorial, ingénieur
+- 📰 Journaliste, chef de projet, coordinateur
+- 🎭 Technicien du spectacle, artiste
+- 🏥 Médecin, infirmier, pompier
+- etc.
 
-- 🤔 **Degré d'autonomie de la nature ?** Jusqu'où intervenir ou laisser faire ?
-- 🤔 **Interventionnisme ou non ?** Restauration active vs réensauvagement
-- 🤔 **Comment casser le déséquilibre ?** Remettre de l'équilibre dans des écosystèmes urbains dégradés
-- 🤔 **Dangers des milieux ?** Campagnes sur punaises de lit, se sécuriser par rapport à la nature...
-- 🤔 **C'est quoi la nature ?** Un parc = nature en ville ?
-
----
-
-## 💬 Verbatims de l'Apéro Donut #9
-
-### Ce qui ne va pas
-
-- "Ça ne va pas assez vite"
-- "Au secours l'aménagement de la place Castellane"
-- "La ville manque d'ambition, de grands projets, et de transmission"
-- "Le 13ème arrondissement est hostile pour les piétons. Tous les pieds d'arbres sont recouverts de bitume, mon chien galère à se soulager"
-- "Urbanisation frénétique du 11ème arrondissement"
-- "Saint-Menet, une aire pour les gens du voyage installée sur une dalle de béton qui fera bientôt 80°C au sol"
-
-### Ce qui manque
-
-- Confort de vie + urgence climatique
-- Grands projets structurants
-- Vision long terme
-
-### Convictions exprimées
-
-- "Rendre la ville habitable / ça ne viendra pas d'en haut / impliquer les habitants"
-- "Approche scientifique, artistique, participative sur les friches"
-- "Comment concilier les besoins sans empiéter sur la nature ?"
-- "Paradoxe marseillais : le Frioul c'est la nature en ville"
-- "La ville est une opportunité pour la nature"
-- "Plein de monde => changer les mentalités"
-- "Melting pot pour changer de vision"
+**Soyez les bienvenu·es !!** 🎉
 
 ---
 
-## 🛠️ Outils identifiés
+## 📖 Définitions
 
-### Cartographie des parties prenantes
+### \*Open Data
 
-**Source** : [Vagues & Horizons](https://vagueshorizons.fr/outils/)
-- Licence : Creative Commons
-- Durée : 45 min
-- Pour groupes de 4 à 10 personnes
-- Permet d'identifier humains et non-humains impactés
+Selon la définition Wikipédia, les **données ouvertes** ou **open data** sont des données numériques dont l'accès et l'usage sont laissés libres aux usagers.
 
----
+Elles peuvent être d'origine publique ou privée, produites notamment par une collectivité, un service public, un collectif citoyen ou une entreprise.
 
-## 🚀 Prochaines étapes
+Elles sont diffusées de manière structurée selon une méthode et une licence ouverte garantissant leur libre accès et leur réutilisation par tous, sans restriction technique, juridique ou financière.
 
-🚧 **À définir lors des prochains Apéros Donut**
+### \*\*Open Source
+
+La locution **open source** fait référence à tout logiciel dont les codes sont ouverts gratuitement pour l'utilisation ou la duplication, et qui permet de favoriser le libre échange des savoirs informatiques.

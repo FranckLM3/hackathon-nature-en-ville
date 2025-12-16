@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# 🏁 Pendant le hackathon : règles et bonnes pratiques
+# 🏁 Déroulement
 
-Vous voici au cœur de l'action ! Cette section détaille les **règles définies et les bonnes pratiques recommandées** pendant le hackathon Nature en Ville.
+Vous voici au cœur de l'action ! Cette section détaille les **règles et bonnes pratiques** du hackathon Nature en Ville.
 
 :::info Durée
 Du **23 au 25 janvier 2026** (3 jours)
@@ -94,61 +94,3 @@ Du **23 au 25 janvier 2026** (3 jours)
     </div>
   </div>
 </div>
-
----
-
-## ⚡ Principes clés
-
-Durant ces 3 jours, vous travaillerez **en équipe de 3 à 8 personnes** pour répondre à l'un des défis proposés.
-
-:::info Valeurs
-- ✅ Collaboration et entraide
-- 🎯 Focus sur la résolution de problèmes
-- 🤝 Interaction régulière avec les mentors
-- 📊 Transparence dans le processus
-- 🌱 Apprentissage et innovation
-:::
-
----
-
-## ⏰ Les deadlines importantes
-
-| Quand | Quoi |
-|-------|------|
-| **Vendredi 14h30** | Choix définitif du défi |
-| **Samedi 17h00** | Rendu intermédiaire (présentation 15 min) |
-| **Dimanche 12h00** | ⚠️ **DEADLINE FINALE** - Soumission du projet |
-| **Dimanche 14h00** | Présentations finales |
-| **Dimanche 17h00** | Annonce des résultats |
-
----
-
-## 📋 Checklist pendant le hackathon
-
-### Vendredi (Jour 1)
-- [ ] Constituer ou finaliser votre équipe
-- [ ] Choisir votre défi
-- [ ] Rencontrer les mentors
-- [ ] Commencer à explorer les données
-- [ ] Définir une stratégie d'équipe
-
-### Samedi (Jour 2)
-- [ ] Sprint de développement
-- [ ] Solliciter les mentors si besoin
-- [ ] Préparer le rendu intermédiaire
-- [ ] Présenter votre avancement (17h00)
-- [ ] Intégrer les retours reçus
-
-### Dimanche (Jour 3)
-- [ ] Sprint final
-- [ ] Finaliser votre projet
-- [ ] **Soumettre avant 12h00** ⚠️
-- [ ] Préparer votre présentation (7 min)
-- [ ] Présenter devant le jury
-- [ ] Célébrer ! 🎉
-
----
-
-:::warning Rappel important
-Consultez régulièrement cette section et le [programme](../ressources-hackathon/programme.md) pour ne manquer aucune étape importante !
-:::

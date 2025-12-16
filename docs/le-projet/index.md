@@ -4,10 +4,10 @@ sidebar_position: 0
 
 # 📖 Le Projet - Hackathon Nature en Ville
 
-Bienvenue dans la section dédiée au projet hackathon Nature en Ville ! Découvrez l'origine, la méthode et l'histoire de cette initiative citoyenne.
+Bienvenue dans la section dédiée au projet hackathon Nature en Ville ! Découvrez l'origine, la méthode et les convictions qui sous-tendent cette initiative citoyenne.
 
 :::info À propos
-Ce hackathon vise à mobiliser habitants, experts, agents et élus autour de la renaturation citoyenne et la gestion des espaces de nature en ville.
+Cet évènement vise à mobiliser les habitants, experts métiers & thématiques, agents, élus, autour de la renaturation citoyenne, de la présence et la gestion des espaces de nature de leur ville.
 :::
 
 ## Navigation
@@ -20,7 +20,7 @@ Ce hackathon vise à mobiliser habitants, experts, agents et élus autour de la 
           <h3>📝 Présentation du projet</h3>
         </div>
         <div className="card__body">
-          <p>Découvrez la genèse du projet, l'approche par les actants et la méthode de travail collaborative</p>
+          <p>Découvrez la genèse du projet, l'approche collaborative et la méthode de travail</p>
         </div>
         <div className="card__footer">
           <a href="/hackathon-nature-en-ville/docs/le-projet/presentation" className="button button--primary button--block">Découvrir</a>
@@ -30,13 +30,39 @@ Ce hackathon vise à mobiliser habitants, experts, agents et élus autour de la 
     <div className="col col--6" style={{marginBottom: '1rem'}}>
       <div className="card">
         <div className="card__header">
-          <h3>🌱 Historique GERM</h3>
+          <h3>🍩 Porteur du projet</h3>
         </div>
         <div className="card__body">
-          <p>L'histoire du Groupe d'Expérimentations et de Recherches Métropolitaines et son rôle dans le projet</p>
+          <p>L'association DONUT et son expérience des hackathons citoyens</p>
         </div>
         <div className="card__footer">
-          <a href="/hackathon-nature-en-ville/docs/le-projet/historique-germ" className="button button--primary button--block">En savoir plus</a>
+          <a href="/hackathon-nature-en-ville/docs/le-projet/porteur-projet" className="button button--primary button--block">En savoir plus</a>
+        </div>
+      </div>
+    </div>
+    <div className="col col--6" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>🤝 Partenaires</h3>
+        </div>
+        <div className="card__body">
+          <p>GERM, Ville de Marseille et tous nos partenaires engagés</p>
+        </div>
+        <div className="card__footer">
+          <a href="/hackathon-nature-en-ville/docs/le-projet/partenaires" className="button button--primary button--block">Découvrir</a>
+        </div>
+      </div>
+    </div>
+    <div className="col col--6" style={{marginBottom: '1rem'}}>
+      <div className="card">
+        <div className="card__header">
+          <h3>🎯 Approche et thématique</h3>
+        </div>
+        <div className="card__body">
+          <p>La nature en ville, les actants et la méthode par les tensions</p>
+        </div>
+        <div className="card__footer">
+          <a href="/hackathon-nature-en-ville/docs/le-projet/approche-thematique" className="button button--primary button--block">Explorer</a>
         </div>
       </div>
     </div>

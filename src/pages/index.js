@@ -13,13 +13,13 @@ function HomepageHeader() {
         <h1 className="hero__title">🌿 Hackathon Nature en Ville</h1>
         <p className="hero__subtitle">Marseille • 23-24-25 janvier 2026</p>
         <p className="hero__subtitle">
-          Mobiliser habitants, experts et élus autour de la renaturation citoyenne
+          DONUT et ses partenaires vous accueillent pour un grand événement d'intelligence collective
         </p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
-            to="/docs">  {/* ← Changé ici : juste /docs */}
-            Découvrir le projet →
+            className="button button--success button--lg"
+            to="/docs/participer">
+            S'inscrire au hackathon 🚀
           </Link>
         </div>
       </div>
@@ -34,37 +34,37 @@ function HomepageFeatures() {
         <div className="row">
           <div className="col col--4">
             <div className="text--center padding-horiz--md">
-              <h3>🎯 Le projet</h3>
+              <h3>📖 Le Projet</h3>
               <p>
-                Mobiliser les habitants, experts et élus autour de la renaturation 
-                citoyenne et la gestion des espaces de nature en ville.
+                Découvrez l'origine, la méthode et les convictions qui sous-tendent 
+                cette initiative citoyenne d'intelligence collective.
               </p>
-              <Link to="/docs">  {/* ← Changé ici */}
+              <Link to="/docs/le-projet">
                 En savoir plus →
               </Link>
             </div>
           </div>
           <div className="col col--4">
             <div className="text--center padding-horiz--md">
-              <h3>📜 Manifeste des Friches</h3>
+              <h3>🎟️ Participer</h3>
               <p>
-                4 ans de travail sur les friches marseillaises. Préservation 
-                et gestion écologique des espaces naturels urbains.
+                Vous êtes citoyen, agent, élu, expert ? Inscrivez-vous et 
+                rejoignez-nous pour co-construire la ville nature de demain.
               </p>
-              <Link to="/docs">  {/* ← Changé ici */}
-                Lire le manifeste →
+              <Link to="/docs/participer">
+                S'inscrire →
               </Link>
             </div>
           </div>
           <div className="col col--4">
             <div className="text--center padding-horiz--md">
-              <h3>👥 Participer</h3>
+              <h3>📦 Ressources</h3>
               <p>
-                Vous êtes citoyen, agent, élu, expert ? Rejoignez-nous 
-                pour co-construire la ville nature de demain.
+                Programme, données, informations pratiques et tous les outils 
+                pour bien préparer votre participation au hackathon.
               </p>
-              <Link to="/docs">  {/* ← Changé ici */}
-                Je participe →
+              <Link to="/docs/ressources-hackathon">
+                Consulter →
               </Link>
             </div>
           </div>

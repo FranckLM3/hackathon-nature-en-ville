@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # 🎯 Choix du défi ou du projet
 
+:::info Sur place le jour J
+Le choix du défi et la définition de votre projet se font **sur place le jour du hackathon**, pas en amont. Vous aurez le temps de réfléchir, d'échanger avec les autres participants et de former votre équipe au début de l'événement.
+:::
+
 ## 🚀 Liberté totale de proposition
 
 Pour ce hackathon, **il n'y a pas de défis prédéfinis imposés**. Vous êtes totalement libres de proposer le projet qui vous inspire autour de la thématique **"Nature en Ville"** !
@@ -18,39 +22,9 @@ Cette approche favorise :
 
 ## 🌱 Thématiques suggérées
 
-Issues des ateliers préparatoires, voici quelques **pistes de réflexion** (liste non exhaustive) :
-
-### 🐦 Biodiversité urbaine
-- Retour des hirondelles et autres espèces en ville
-- Cartographie participative de la faune et la flore
-- Corridors écologiques et connectivité
-- Sciences participatives et suivi naturaliste
-
-### 🌾 Sols et végétation
-- Cartographie des sols vivants
-- Lutte contre l'artificialisation
-- Jardins partagés et agriculture urbaine
-- Services écosystémiques rendus par les sols
-
-### 🌊 Eau et climat
-- Gestion de l'eau en milieu urbain
-- Îlots de chaleur et îlots de fraîcheur
-- Solutions fondées sur la nature (SLND)
-- Adaptation au changement climatique
-
-### �️ Friches et espaces en transition
-- Potentiel écologique des friches urbaines
-- Biodiversité spontanée
-- Urbanisme transitoire et tiers-lieux
-- Renaturation d'espaces délaissés
-
-### 🗺️ Autres pistes
-- Sensibilisation et éducation à l'environnement
-- Outils de diagnostic écologique
-- Aménagement participatif d'espaces verts
-- Politique publique et indicateurs de suivi
-
-
+:::caution 🚧 À définir
+Les thématiques suggérées seront ajoutées prochainement suite aux ateliers préparatoires.
+:::
 
 ## 💡 Comment définir votre projet ?
 
@@ -65,7 +39,7 @@ Posez-vous les questions suivantes :
 ### 2. Vérifiez la faisabilité
 
 Avant de vous lancer :
-- 📊 **Données disponibles** : consultez le [catalogue de données](../ressources-hackathon/donnees.md)
+- 📊 **Données disponibles** : consultez le [catalogue de données](../ressources-hackathon/donnees)
 - ⏱️ **Temps disponible** : le projet doit être réalisable en 48h
 - 🛠️ **Compétences** : identifiez les profils nécessaires dans votre équipe
 - 🎯 **Impact** : quelle valeur ajoutée pour les usagers ?
@@ -78,23 +52,23 @@ Préparez un pitch court :
 - **La solution** : que proposez-vous ?
 - **L'impact** : qui cela aide-t-il et comment ?
 
-### Explorez les ressources
+### Ressources disponibles
 
-Pour affiner votre projet :
+Pour vous préparer et trouver l'inspiration en amont :
 
-- 📊 Consultez les [**données disponibles**](../ressources-hackathon/donnees.md)
-- 📚 Lisez le [**Manifeste des friches**](../ressources-hackathon/manifeste-friches.md)
-- � Découvrez [**le projet Nature en Ville**](../le-projet/presentation.md)
+- 📊 Consultez les [**données disponibles**](../ressources-hackathon/donnees)
+- 💡 Explorez les [**sources d'inspiration**](../ressources-hackathon/inspirations) : manifeste, rapports et références
+- 🌱 Découvrez [**le projet Nature en Ville**](../le-projet/presentation)
 - 💬 Échangez avec les autres participants sur Mattermost
 
-## 🤝 Formation des équipes
+## 🤝 Formation des équipes sur place
 
-Une fois votre projet défini :
+Le jour du hackathon :
 
-1. **Présentez votre idée** sur Mattermost pour trouver des coéquipiers
-2. **Rejoignez une équipe existante** dont le projet vous intéresse
-3. **Participez à la session de constitution des équipes** (voir [Programme](../ressources-hackathon/programme.md))
-4. **Constituez votre équipe** en suivant les [bonnes pratiques](constitution-equipes.md)
+1. **Écoutez les pitchs** des différentes idées proposées par les participants
+2. **Échangez et discutez** autour des projets qui vous intéressent
+3. **Rejoignez une équipe** ou formez-en une nouvelle autour d'un projet commun
+4. **Constituez votre équipe** en suivant les [bonnes pratiques](constitution-equipes)
 
 ---
 
