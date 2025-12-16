@@ -249,7 +249,7 @@ Slides pour le contexte/problématique + Démo/vidéo pour la solution + Slides 
 - Dotations (à définir)
 
 :::success Tous gagnants !
-Tous les projets soumis seront valorisés sur le site du hackathon et pourront bénéficier d'un accompagnement pour continuer après l'événement. Voir [Après le hackathon](../apres-le-hackathon/index.md).
+Tous les projets soumis seront valorisés sur le site du hackathon et pourront bénéficier d'un accompagnement pour continuer après l'événement.
 :::
 
 ## 👨‍⚖️ Le jury
@@ -323,8 +323,8 @@ Le jour J :
   </div>
   <div className="card" style={{flex: 1}}>
     <div className="card__body">
-      <h3>➡️ Suivant</h3>
-      <p><a href="../apres-le-hackathon/index">Après le hackathon</a></p>
+      <h3>🏠 Retour</h3>
+      <p><a href="../intro">Page d'accueil</a></p>
     </div>
   </div>
 </div>

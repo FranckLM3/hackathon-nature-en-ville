@@ -55,17 +55,6 @@ const sidebars = {
         'pendant-le-hackathon/evaluation',
       ],
     },
-    {
-      type: 'category',
-      label: '✨ Après le hackathon',
-      link: {
-        type: 'doc',
-        id: 'apres-le-hackathon/index',
-      },
-      items: [
-        'apres-le-hackathon/valorisation',
-      ],
-    },
   ],
 };
 

@@ -116,10 +116,6 @@ const config = {
                 label: 'Pendant le hackathon',
                 to: '/docs/pendant-le-hackathon/index',
               },
-              {
-                label: 'Après le hackathon',
-                to: '/docs/apres-le-hackathon/index',
-              },
             ],
           },
           {
