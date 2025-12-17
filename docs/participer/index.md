@@ -17,14 +17,14 @@ Les inscriptions sont ouvertes ! Ne tardez pas, les places sont limitées.
 ## 📅 Informations essentielles
 
 ### 📍 Date et lieu
-- **Quand :** 23-25 janvier 2026 (du vendredi 19h au dimanche 18h)
+- **Quand :** 23-25 janvier 2026 (du vendredi 18h au dimanche 18h)
 - **Où :** Marseille (lieu à confirmer)
-- **Format :** Équipes de 3 à 6 personnes
-- **Participation :** Gratuite, repas fournis
+- **Format :** Équipes de 3 à 10 personnes
+- **Participation :** Gratuite
 
 ### ✅ Ce qu'il faut savoir
 
-- 👥 **Qui ?** Tout le monde est bienvenu : citoyens, professionnels de la nature, de l'aménagement, du numérique, agents territoriaux, élus, commerçants, enseignants, associatifs...
+- 👥 **Qui ?** Tout le monde est bienvenu : citoyens, professionnels de la nature, de l'aménagement, du numérique, agents territoriaux, élus, commerçants, enseignants, associations...
 - 🌱 **Quoi ?** Projets collaboratifs autour de la nature en ville
 - 🤝 **Comment ?** Intelligence collective, open data, méthodes participatives
 - 💻 **Prérequis ?** Aucun niveau technique requis, juste de la motivation !
