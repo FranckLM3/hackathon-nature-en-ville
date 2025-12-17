@@ -20,7 +20,6 @@ Cet évènement vise à mobiliser les habitants, experts métiers & thématiques
           <h3>📝 Présentation du projet</h3>
         </div>
         <div className="card__body">
-          <p>Découvrez la genèse du projet, l'approche collaborative et la méthode de travail</p>
         </div>
         <div className="card__footer">
           <a href="/hackathon-nature-en-ville/docs/le-projet/presentation" className="button button--primary button--block">Découvrir</a>
@@ -33,7 +32,6 @@ Cet évènement vise à mobiliser les habitants, experts métiers & thématiques
           <h3>🍩 Porteur du projet</h3>
         </div>
         <div className="card__body">
-          <p>L'association DONUT et son expérience des hackathons citoyens</p>
         </div>
         <div className="card__footer">
           <a href="/hackathon-nature-en-ville/docs/le-projet/porteur-projet" className="button button--primary button--block">En savoir plus</a>
@@ -46,7 +44,6 @@ Cet évènement vise à mobiliser les habitants, experts métiers & thématiques
           <h3>🤝 Partenaires</h3>
         </div>
         <div className="card__body">
-          <p>GERM, Ville de Marseille et tous nos partenaires engagés</p>
         </div>
         <div className="card__footer">
           <a href="/hackathon-nature-en-ville/docs/le-projet/partenaires" className="button button--primary button--block">Découvrir</a>
@@ -59,7 +56,6 @@ Cet évènement vise à mobiliser les habitants, experts métiers & thématiques
           <h3>🎯 Approche et thématique</h3>
         </div>
         <div className="card__body">
-          <p>La nature en ville, les actants et la méthode par les tensions</p>
         </div>
         <div className="card__footer">
           <a href="/hackathon-nature-en-ville/docs/le-projet/approche-thematique" className="button button--primary button--block">Explorer</a>
