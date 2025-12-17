@@ -20,9 +20,7 @@ En portant attention aux enjeux sociaux, environnementaux, pédagogiques et cult
 
 ## 🤝 Nos partenaires
 
-Les autres partenaires proches nous ont aidé à plein d'égards différents et sont des acteurs clés de notre écosystème.
-
-### Partenaires techniques et data
+Ces autres partenaires proches nous ont aidé à plein d'égards différents et sont des acteurs clés de notre écosystème.
 
 - **[EVOLIX](https://evolix.com/)** - Hébergement et infrastructure
 - **[NATURAL SOLUTIONS](https://www.natural-solutions.eu/)** - Expertise biodiversité et numérique
@@ -30,20 +28,13 @@ Les autres partenaires proches nous ont aidé à plein d'égards différents et 
 - **[OSM - OpenStreetMap](https://www.openstreetmap.fr/)** - Cartographie collaborative
 - **[DATA FOR GOOD PROVENCE](https://dataforgood.fr/)** - Communauté data science citoyenne
 - **[ADALAB](https://adalab.fr/)** - Accompagnement innovation
-
-### Partenaires associatifs et transition
-
 - **[LA CITÉ DES TRANSITIONS](https://citedestransitions.org/)** - Lieu d'expérimentation et de partage
-- **[ALTERNATIBA](https://alternatiba.eu/)** - Mouvement citoyen pour le climat
+- **[LES MOUTONS MARSEILLAIS](https://www.helloasso.com/associations/les-moutons-marseillais)** - Éco-pâturage urbain
+- **[ISSU](https://www.instagram.com/issu_association/)** - Initiative pour la Sauvegarde des Sols Urbains
 - **[MARSEILLE EN TRANSITION](https://marseilleentransition.fr/)** - Réseau de transition locale
 - **[COMM'UN POSSIBLE MARSEILLE](https://communpossiblemarseille.org/)** - Mouvement des communs
-- **[ISSU](https://www.instagram.com/issu_association/)** - Initiative pour la Sauvegarde des Sols Urbains
-- **[LES MOUTONS MARSEILLAIS](https://www.helloasso.com/associations/les-moutons-marseillais)** - Éco-pâturage urbain
 
-### Partenaires en cours de confirmation
 
-- **Open Food Facts** - Base de données collaborative alimentaire
-- **AIR CITOYEN** - Mesure citoyenne de la qualité de l'air
 
 :::tip Vous souhaitez devenir partenaire ?
 N'hésitez pas à nous contacter pour rejoindre l'aventure !
