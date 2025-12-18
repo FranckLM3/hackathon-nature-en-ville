@@ -16,7 +16,7 @@ Pour en savoir plus, nous vous suggérons d'explorer ces pages ci-dessous et de 
 
 <div style={{textAlign: 'center', margin: '2rem 0', padding: '1.5rem', backgroundColor: 'var(--ifm-color-success-contrast-background)', borderRadius: '8px', border: '3px solid var(--ifm-color-success)'}}>
   <p style={{fontSize: '1.2rem', fontWeight: 'bold', marginBottom: '1rem', color: 'var(--ifm-color-success-darkest)'}}>
-    🎉 Les inscriptions sont ouvertes !
+    🎉 Les inscriptions sont gratuites et ouvertes à toutes et tous !
   </p>
   <a href="https://framaforms.org/youpi-je-participe-au-hackathon-de-la-nature-en-ville-1765824450" className="button button--success button--lg" target="_blank" rel="noopener noreferrer" style={{marginRight: '1rem'}}>
     Je m'inscris 🚀
@@ -51,7 +51,7 @@ import DocCardList from '@theme/DocCardList';
           <h3>🎟️ Participer</h3>
         </div>
         <div className="card__body">
-          <p>Inscription, qui peut participer et informations pratiques</p>
+          <p>Inscription et informations pratiques</p>
         </div>
         <div className="card__footer">
           <a href="/hackathon-nature-en-ville/docs/participer/index" className="button button--success button--block">S'inscrire</a>
@@ -64,7 +64,7 @@ import DocCardList from '@theme/DocCardList';
           <h3>📦 Ressources</h3>
         </div>
         <div className="card__body">
-          <p>Programme, données, infos pratiques et contacts</p>
+          <p>Données, Etudes, Articles, Inspirations </p>
         </div>
         <div className="card__footer">
           <a href="/hackathon-nature-en-ville/docs/ressources-hackathon/index" className="button button--primary button--block">Consulter</a>
