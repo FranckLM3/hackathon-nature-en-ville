@@ -4,12 +4,12 @@ sidebar_position: 0
 
 # 🎟️ Participer au hackathon
 
-Bienvenue ! Ce guide complet vous accompagne pour participer au hackathon Nature en Ville (23-25 janvier 2026 à Marseille).
+Bienvenue ! Ce guide vous accompagne pour participer au hackathon de la Nature en Ville à Marseille du 23 au 25 janvier 2026 inclus.
 
 :::tip 🎉 Inscrivez-vous maintenant !
 **[👉 JE M'INSCRIS AU HACKATHON](https://framaforms.org/youpi-je-participe-au-hackathon-de-la-nature-en-ville-1765824450)**
 
-Les inscriptions sont ouvertes ! Ne tardez pas, les places sont limitées.
+Les inscriptions sont gratuites et ouvertes à toutes et tous ! Ne tardez pas, les places sont limitées.
 :::
 
 ---
@@ -24,7 +24,7 @@ Les inscriptions sont ouvertes ! Ne tardez pas, les places sont limitées.
 
 ### ✅ Ce qu'il faut savoir
 
-- 👥 **Qui ?** Tout le monde est bienvenu : citoyens, professionnels de la nature, de l'aménagement, du numérique, agents territoriaux, élus, commerçants, enseignants, associations...
+- 👥 **Qui ?** Tout le monde est bienvenu : habitants, professionnels de la nature, de l'aménagement, du numérique, agents territoriaux, élus, commerçants, enseignants, associations, étudiants, retraités ...
 - 🌱 **Quoi ?** Projets collaboratifs autour de la nature en ville
 - 🤝 **Comment ?** Intelligence collective, open data, méthodes participatives
 - 💻 **Prérequis ?** Aucun niveau technique requis, juste de la motivation !
@@ -78,7 +78,7 @@ Le **Mattermost** est notre espace de discussion avant, pendant et après le hac
 - [ ] **Noter vos questions** à poser aux mentors
 
 :::info Constitution des équipes
-Les équipes (3-6 personnes) seront formées **pendant le hackathon** le vendredi soir. Vous pouvez venir seul·e ou avec des collègues, l'organisation facilitera les rencontres !
+Les équipes (3-10 personnes) seront formées **pendant le hackathon** le vendredi soir. Vous pouvez venir seul·e ou avec des collègues, l'organisation facilitera les rencontres !
 :::
 
 ---
@@ -97,7 +97,7 @@ Les projets du hackathon ne sont pas que numériques. On peut créer :
 
 ### Vous n'avez pas besoin d'être expert·e !
 
-Votre regard de citoyen·ne, vos observations, vos questions sont précieuses.
+Votre regard et votre expérience d'habitant·e, vos observations, vos questions sont précieuses.
 
 ---
 
@@ -116,7 +116,7 @@ Non, le hackathon est gratuit pour tous les participants.
 Nous recommandons la présence sur toute la durée, mais contactez l'organisation si vous avez des contraintes.
 
 **Je ne suis pas marseillais·e, puis-je participer ?**  
-Oui ! Même si le hackathon se concentre sur Marseille, les méthodes et outils créés peuvent être répliqués ailleurs.
+Oui ! Même si le hackathon se concentre sur Marseille, les méthodes et outils créés peuvent être utilisé ou répliqués ailleurs.
 
 **Je n'ai jamais participé à un hackathon, est-ce un problème ?**  
 Pas du tout ! Des facilitateurs et mentors seront présents pour accompagner les débutants.
