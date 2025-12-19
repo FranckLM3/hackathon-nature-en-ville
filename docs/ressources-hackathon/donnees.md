@@ -169,7 +169,7 @@ Toutes les données ci-dessous sont en **open data** et librement réutilisables
 
 ## 🚀 Besoin d'aide ?
 
-- **Mentors données** : Disponibles pendant le hackathon
+- **Datascientists et autres experts numeriques** : Disponibles pendant le hackathon
 - **Mattermost** : Canal #données pour poser vos questions
 - **Documentation** : Consultez ce guide et les ressources des plateformes de données
 
