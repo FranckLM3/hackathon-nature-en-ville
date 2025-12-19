@@ -31,6 +31,11 @@ const sidebars = {
       label: '🎟️ Participer',
     },
     {
+      type: 'doc',
+      id: 'pendant-le-hackathon/index',
+      label: '🏁 Déroulement',
+    },
+    {
       type: 'category',
       label: '📦 Ressources',
       link: {
@@ -52,32 +57,9 @@ const sidebars = {
       ],
     },
     {
-      type: 'category',
-      label: '🏁 Déroulement',
-      link: {
-        type: 'doc',
-        id: 'pendant-le-hackathon/index',
-      },
-      items: [
-        'pendant-le-hackathon/choix-defi',
-        'pendant-le-hackathon/constitution-equipes',
-        'pendant-le-hackathon/mentors',
-        {
-          type: 'doc',
-          id: 'pendant-le-hackathon/rendu-intermediaire',
-          label: 'Rendu intermédiaire (à faire)',
-        },
-        {
-          type: 'doc',
-          id: 'pendant-le-hackathon/soumission',
-          label: 'Soumission (à faire)',
-        },
-        {
-          type: 'doc',
-          id: 'pendant-le-hackathon/evaluation',
-          label: 'Évaluation (à faire)',
-        },
-      ],
+      type: 'doc',
+      id: 'contact',
+      label: '💬 Contact',
     },
   ],
 };

@@ -10,9 +10,24 @@ title: Accueil
 
 :::info Bienvenue ! 🌱
 **DONUT** et ses partenaires vous accueillent pour un grand événement d'**intelligence collective** autour de la nature en ville.
-
-Pour en savoir plus, nous vous suggérons d'explorer ces pages ci-dessous et de ne pas hésiter à nous contacter pour plus de précisions. **Bonne visite !** 🎉
 :::
+
+---
+
+## 🌱 En bref
+
+**C'est quoi ?** Un événement collaboratif de 3 jours où citoyens, experts et techniciens se réunissent pour créer des solutions autour de la nature en ville.
+
+**Pour qui ?** Tout le monde ! Que vous soyez citoyen·ne, agent de collectivité, développeur·euse, écologue... Pas besoin d'être expert·e.
+
+**Comment ça marche ?** 
+- **Vendredi soir** : formation des équipes autour de projets
+- **Samedi** : travail collaboratif avec accompagnement de mentors
+- **Dimanche** : finalisation et présentations des projets
+
+👉 [Tout comprendre en 2 min](./le-projet/presentation.md) | [Programme détaillé](./ressources-hackathon/programme.md)
+
+---
 
 <div style={{textAlign: 'center', margin: '2rem 0', padding: '1.5rem', backgroundColor: 'var(--ifm-color-success-contrast-background)', borderRadius: '8px', border: '3px solid var(--ifm-color-success)'}}>
   <p style={{fontSize: '1.2rem', fontWeight: 'bold', marginBottom: '1rem', color: 'var(--ifm-color-success-darkest)'}}>
