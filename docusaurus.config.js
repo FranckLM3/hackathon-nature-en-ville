@@ -75,9 +75,21 @@ const config = {
           },
           {
             type: 'doc',
+            docId: 'pendant-le-hackathon/index',
+            position: 'left',
+            label: '📅 Déroulement',
+          },
+          {
+            type: 'doc',
             docId: 'ressources-hackathon/index',
             position: 'left',
             label: '📦 Ressources',
+          },
+          {
+            type: 'doc',
+            docId: 'contact',
+            position: 'left',
+            label: '📞 Contact',
           },
           {
             href: 'https://framaforms.org/youpi-je-participe-au-hackathon-de-la-nature-en-ville-1765824450',
