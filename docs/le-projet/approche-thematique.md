@@ -16,7 +16,7 @@ Elle soulève des questions centrales pour l'action publique :
 Les friches, les espaces verts, les cours d'école, les arbres d'alignement ou les trames (vertes, bleues, noires, brunes, etc.) constituent autant de composantes à appréhender de manière concertée. Leur gestion implique une compréhension fine des interactions écologiques, une mobilisation de données ouvertes et fiables, et une collaboration étroite entre habitants, experts, associations et institutions.
 
 :::tip En résumé
-En ce sens, la nature en ville ne se limite pas à la végétalisation : elle engage une réflexion collective sur l'abord du territoire et la construction de milieux urbains plus résilients, plus justes et mieux adaptés au climat à venir.
+En ce sens, la nature en ville ne se limite pas à la végétalisation : elle engage une réflexion collective sur l'abord du territoire et la construction de milieux urbains plus résilients, plus justes et mieux adaptés au climat à venir, sur fond de nombreuses thématiques interconnectées - l'eau, l'arbre, la biodiversité, la qualité de l'air, les trames, les mobilités, les parcs, les jardins sous toutes leurs formes, les friches, les sols, etc
 :::
 
 ---
