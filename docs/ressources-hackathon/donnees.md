@@ -73,13 +73,13 @@ Vous trouverez dans cette catégorie des données généralistes pouvant vous se
 #### Portail ["Connaissance du territoire" de la Région](https://connaissance-territoire.maregionsud.fr/) 
 * **Contenu** : DataSud est l'une des briques de la plateforme de connaissance du territoire. Vous pourrez, en complément, y trouver des liens vers de nombreux observatoires thématiques et vers des cartes et des études.
 
-#### Portail open data de la Métropole MDATA
+#### Portail open data de la Métropole [MDATA](https://data.ampmetropole.fr/)
 * **Contenu** : MDATA est le portail des données ouvertes par la Métropole ou mise à disposition par la Métropole. Vous y trouverez des données en lien avec les compétences de la Métropole (transports, déchets, voirie...)
 * **Accès** : téléchargement des données et API
 * **Format** : formats variés
 * **Licence** : variable suivant les données, à vérifier dans les métadonnées du jeu de données
 
-### Portail [open data de la ville](https://www.marseille.fr/open-data)
+#### Portail [open data de la ville de Marseille](https://www.marseille.fr/open-data)
 * **Contenu** : Sur le portail de la ville vous trouverez des données en lien avec les compétences de la ville (état-civil, stationnement...)
 * **Accès** : téléchargement des données et API
 * **Format** : formats variés
@@ -92,7 +92,7 @@ Vous trouverez dans cette catégorie des données généralistes pouvant vous se
 - **Source** : Open Data Marseille
 - **Description** : Recensement des arbres sur l'espace public
 - **Contenu** : Espèce, localisation, âge, état sanitaire
-- **Accès** : [data.marseille.fr](https://data.marseille.fr/)
+- **Accès** : [marseille.fr/open-data](https://www.marseille.fr/open-data)
 
 ### Espaces verts
 - **Source** : Métropole, OpenStreetMap
@@ -104,6 +104,7 @@ Vous trouverez dans cette catégorie des données généralistes pouvant vous se
 - **Description** : Observations d'espèces
 - **Accès** : [inpn.mnhn.fr](https://inpn.mnhn.fr/)
 - **Contenu** : Faune, flore, observations géolocalisées
+- **⚠️ Note** : Site temporairement indisponible suite à une cyberattaque. Données disponibles via les plateformes régionales SINP et [GBIF](https://www.gbif.org/)
 
 ### Qualité de l'air
 - **Source** : AtmoSud
@@ -156,7 +157,8 @@ Vous trouverez dans cette catégorie des données généralistes pouvant vous se
 ### Données météorologiques
 - **Source** : Météo-France
 - **Description** : Température, précipitations, ensoleillement
-- **Accès** : [donneespubliques.meteofrance.fr](https://donneespubliques.meteofrance.fr/)
+- **Accès** : [portail-api.meteofrance.fr](https://portail-api.meteofrance.fr/) ou [meteo.data.gouv.fr](https://meteo.data.gouv.fr/)
+- **⚠️ Note** : Le portail donneespubliques.meteofrance.fr est en cours de migration vers ces deux nouvelles plateformes
 
 ---
 
