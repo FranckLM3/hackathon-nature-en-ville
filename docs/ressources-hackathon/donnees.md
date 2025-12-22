@@ -42,6 +42,12 @@ Vous trouverez dans cette catégorie des données généralistes pouvant vous se
 * **Contenu** : Remonter le temps vous donne accès aux images de photos aériennes prises depuis les années 50 oar l'IGN. Le site permet de faire des comparaisons sur l'évolution du paysage.
 * **Accès** : accès aux images aériennes et à un comparateur d'images
 
+##### Le service public des cartes et données du territoire [cartes.gouv.fr](https://cartes.gouv.fr/)
+* **Contenu** : Le portail national de la connaissance du territoire mis en œuvre par l'IGN Géoportail. Service public proposant un accès unifié aux cartes et données territoriales.
+* **Accès** : Consultation en ligne, API, téléchargement
+* **Format** : Formats variés (WMS, WMTS, GeoJSON, Shapefile...)
+* **Licence** : Licence Ouverte (pour la plupart des données IGN)
+
 ### 📊 Autres types de données
 
 #### [data.gouv.fr](https://www.data.gouv.fr/)
@@ -64,8 +70,8 @@ Vous trouverez dans cette catégorie des données généralistes pouvant vous se
 
 ### 📍Sources de données locales
 
-#### Portail [open data de la Région DataSud](https://www.datasud.fr/portal/commencer)
-* **Contenu** : DataSud est l’infrastructure mutualisée de données ouvertes et géographiques de référence en Provence Alpes Côte d’Azur. DataSud met à disposition de nombreuses données publiques comme privées. C'est un portail mutualisé, donc les données d'autres acteurs partenaires remontent sur DataSud, en particulier les données de la Métropole et de la ville de Marseille.
+#### Portail [open data de la Région DataSud](https://www.datasud.fr/)
+* **Contenu** : DataSud est l'infrastructure mutualisée de données ouvertes et géographiques de référence en Provence Alpes Côte d'Azur. DataSud met à disposition de nombreuses données publiques comme privées. C'est un portail mutualisé, donc les données d'autres acteurs partenaires remontent sur DataSud, en particulier les données de la Métropole et de la ville de Marseille.
 * **Accès** : téléchargement des données et API
 * **Format** : formats variés
 * **Licence** : variable suivant les données, à vérifier dans les métadonnées du jeu de données
@@ -79,7 +85,7 @@ Vous trouverez dans cette catégorie des données généralistes pouvant vous se
 * **Format** : formats variés
 * **Licence** : variable suivant les données, à vérifier dans les métadonnées du jeu de données
 
-#### Portail [open data de la ville de Marseille](https://www.marseille.fr/open-data)
+#### Portail [open data de la ville de Marseille](https://opendata.marseille.fr/)
 * **Contenu** : Sur le portail de la ville vous trouverez des données en lien avec les compétences de la ville (état-civil, stationnement...)
 * **Accès** : téléchargement des données et API
 * **Format** : formats variés
@@ -89,10 +95,18 @@ Vous trouverez dans cette catégorie des données généralistes pouvant vous se
 ## 🌳 Données environnementales
 
 ### Arbres urbains
-- **Source** : Open Data Marseille
+
+#### [Arbres de Marseille par Natural Solutions sur DataSud](https://www.datasud.fr/explorer/fr/jeux-de-donnees/arbres-de-marseille/info)
+- **Description** : Base de données exhaustive des arbres de Marseille diffusée en open data par Natural Solutions
+- **Contenu** : Espèce, localisation, caractéristiques dendrométriques
+- **Accès** : Téléchargement via DataSud
+- **Format** : CSV, GeoJSON
+- **Licence** : Licence Ouverte
+
+#### Open Data Marseille
 - **Description** : Recensement des arbres sur l'espace public
 - **Contenu** : Espèce, localisation, âge, état sanitaire
-- **Accès** : [marseille.fr/open-data](https://www.marseille.fr/open-data)
+- **Accès** : [opendata.marseille.fr](https://opendata.marseille.fr/)
 
 ### Espaces verts
 - **Source** : Métropole, OpenStreetMap
@@ -107,10 +121,20 @@ Vous trouverez dans cette catégorie des données généralistes pouvant vous se
 - **⚠️ Note** : Site temporairement indisponible suite à une cyberattaque. Données disponibles via les plateformes régionales SINP et [GBIF](https://www.gbif.org/)
 
 ### Qualité de l'air
-- **Source** : AtmoSud
-- **Description** : Mesures de pollution atmosphérique
-- **Accès** : [atmosud.org](https://www.atmosud.org/)
-- **Contenu** : NO2, PM10, PM2.5, O3
+
+#### [AtmoSud - Données de qualité de l'air](https://www.atmosud.org/article/donnees)
+- **Description** : L'observatoire de la qualité de l'air en région Provence-Alpes-Côte d'Azur
+- **Contenu** : Mesures de pollution atmosphérique (NO2, PM10, PM2.5, O3), indices de qualité de l'air
+- **Accès** : [Données AtmoSud](https://www.atmosud.org/article/donnees)
+- **Format** : API, téléchargement de données
+- **Licence** : Licence Ouverte
+
+#### [OpenAirMap - Capteurs citoyens](https://openairmap.org/)
+- **Description** : Carte collaborative des capteurs de qualité de l'air mobiles et fixes installés et gérés par des bénévoles
+- **Contenu** : Données de capteurs citoyens, cartographie participative
+- **Accès** : [openairmap.org](https://openairmap.org/)
+- **Format** : Carte interactive, API
+- **Licence** : Données ouvertes (variable selon les capteurs)
 
 ---
 
@@ -131,11 +155,32 @@ Vous trouverez dans cette catégorie des données généralistes pouvant vous se
 ## 🏙️ Données urbaines
 
 ### Cadastre
+
+#### [Cadastre.data.gouv.fr](https://cadastre.data.gouv.fr/)
 - **Source** : DGFiP via data.gouv.fr
-- **Description** : Parcelles cadastrales
+- **Description** : Parcelles cadastrales à l'échelle nationale
 - **Accès** : [cadastre.data.gouv.fr](https://cadastre.data.gouv.fr/)
+- **Format** : Shapefile, GeoJSON
+- **Licence** : Licence Ouverte
+
+#### [Plan Cadastral Informatisé (PCI) Bouches-du-Rhône sur DataSud](https://www.datasud.fr/explorer/fr/jeux-de-donnees/plan-cadastral-informatise-pci-13/info)
+- **Source** : DGFiP via DataSud
+- **Description** : Accès direct au Plan Cadastral Informatisé du département 13
+- **Contenu** : Parcelles cadastrales, sections, limites communales
+- **Accès** : [DataSud PCI 13](https://www.datasud.fr/explorer/fr/jeux-de-donnees/plan-cadastral-informatise-pci-13/info)
+- **Format** : Shapefile, GeoJSON, WFS
+- **Licence** : Licence Ouverte
 
 ### Bâtiments
+
+#### [U.R.B.S - Observatoire National des Bâtiments](https://urbs.beta.gouv.fr/)
+- **Description** : La référence pour la connaissance des bâtiments en France
+- **Contenu** : Caractéristiques des bâtiments, performance énergétique, données de construction
+- **Accès** : [urbs.beta.gouv.fr](https://urbs.beta.gouv.fr/)
+- **Format** : API, téléchargement
+- **Licence** : Licence Ouverte
+
+#### IGN BD TOPO et OpenStreetMap
 - **Source** : IGN BD TOPO, OpenStreetMap
 - **Description** : Emprise au sol des bâtiments
 - **Format** : Shapefile, GeoJSON
