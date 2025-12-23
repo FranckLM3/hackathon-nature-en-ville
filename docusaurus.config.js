@@ -11,13 +11,13 @@ const config = {
   tagline: 'Marseille - 23-24-25 janvier 2026',
   favicon: 'img/favicon.ico',
 
-  // Remplacez par votre nom d'utilisateur GitHub
-  url: 'https://FranckLM3.github.io',
-  baseUrl: '/hackathon-nature-en-ville/',
+  // Configuration domaine personnalisé
+  url: 'https://hackathon-nature-ville.ledonut-marseille.com',
+  baseUrl: '/',
 
   // Configuration GitHub pages
   organizationName: 'FranckLM3', // Votre nom d'utilisateur GitHub
-  projectName: 'hackathon-nature-ville', // Nom du repo
+  projectName: 'hackathon-nature-en-ville', // Nom du repo
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
