@@ -12,7 +12,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Configuration domaine personnalisé
-  url: 'https://hackathon-nature-ville.ledonut-marseille.com',
+  url: 'https://hackathon-nature-ville.francklemat.fr',
   baseUrl: '/',
 
   // Configuration GitHub pages
