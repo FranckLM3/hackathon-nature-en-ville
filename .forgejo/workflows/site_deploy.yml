@@ -1,0 +1,48 @@
+name: Build and Deploy Docusaurus Site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: runner-site-d
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Docusaurus site
+        run: npm run build
+
+      - name: Install Rsync and SSH client
+        run: |
+          apt update
+          apt install -y rsync openssh-client
+
+      - name: Configure SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.CLE_PV_RUNNER_DOCKER_DOCU }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -p 22222 -H ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
+          cat ~/.ssh/known_hosts
+
+      - name: Debug SSH connection
+        run: |
+          ssh -v -i ~/.ssh/id_ed25519 -p 22222 ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_HOST }} echo "SSH connection successful!"
+
+      - name: Deploy site to server with Rsync
+        run: |
+          echo "Running Rsync command: rsync -av -e 'ssh -p 22222' --chmod=D750,F640 --delete --exclude .git build/ ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_HOST }}:www"
+          rsync -av -e "ssh -p 22222" --chmod=D750,F640 --delete --exclude .git build/ ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_HOST }}:www
