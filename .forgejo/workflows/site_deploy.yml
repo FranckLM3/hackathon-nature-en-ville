@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: runner-docu-docker
+    runs-on: runner-site-d
 
     steps:
       - name: Checkout repository
