@@ -13,7 +13,7 @@ const config = {
 
   // Configuration GitHub Pages
   url: 'https://francklm3.github.io',
-  baseUrl: '/hackathon-nature-en-ville/',
+  baseUrl: '/',
 
   // Configuration GitHub pages
   organizationName: 'FranckLM3', // Votre nom d'utilisateur GitHub
