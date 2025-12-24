@@ -11,11 +11,9 @@ const config = {
   tagline: 'Marseille - 23-24-25 janvier 2026',
   favicon: 'img/favicon.ico',
 
-  // Configuration GitHub pages (sera changé en domaine personnalisé une fois le DNS configuré)
   // Configuration domaine personnalisé
   url: 'https://hackathon-nature-ville.ledonut-marseille.com',
   baseUrl: '/',
-
 
   // Configuration GitHub pages
   organizationName: 'FranckLM3', // Votre nom d'utilisateur GitHub
