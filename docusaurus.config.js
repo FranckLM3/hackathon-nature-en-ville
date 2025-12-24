@@ -11,9 +11,9 @@ const config = {
   tagline: 'Marseille - 23-24-25 janvier 2026',
   favicon: 'img/favicon.ico',
 
-  // Configuration domaine personnalisé
-  url: 'https://hackathon-nature-ville.francklemat.fr',
-  baseUrl: '/',
+  // Configuration GitHub Pages
+  url: 'https://francklm3.github.io',
+  baseUrl: '/hackathon-nature-en-ville/',
 
   // Configuration GitHub pages
   organizationName: 'FranckLM3', // Votre nom d'utilisateur GitHub
