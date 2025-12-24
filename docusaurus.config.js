@@ -12,8 +12,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Configuration GitHub pages (sera changé en domaine personnalisé une fois le DNS configuré)
-  url: 'https://francklm3.github.io',
-  baseUrl: '/hackathon-nature-en-ville/',
+  // Configuration domaine personnalisé
+  url: 'https://hackathon-nature-ville.ledonut-marseille.com',
+  baseUrl: '/',
+
 
   // Configuration GitHub pages
   organizationName: 'FranckLM3', // Votre nom d'utilisateur GitHub
