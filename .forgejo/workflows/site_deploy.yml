@@ -35,14 +35,14 @@ jobs:
           mkdir -p ~/.ssh
           echo "${{ secrets.CLE_PV_RUNNER_DOCKER_DOCU }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
-          ssh-keyscan -H ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
+          ssh-keyscan -p 22222 -H ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
           cat ~/.ssh/known_hosts
 
       - name: Debug SSH connection
         run: |
-          ssh -v -i ~/.ssh/id_ed25519 ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_HOST }} echo "SSH connection successful!"
+          ssh -v -i ~/.ssh/id_ed25519 -p 22222 ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_HOST }} echo "SSH connection successful!"
 
       - name: Deploy site to server with Rsync
         run: |
-          echo "Running Rsync command: rsync -av --chmod=D750,F640 --delete --exclude .git build/ ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_HOST }}:/home/ledonut-hacknat/www"
-          rsync -av --chmod=D750,F640 --delete --exclude .git build/ ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_HOST }}:/home/ledonut-hacknat/www
+          echo "Running Rsync command: rsync -av -e 'ssh -p 22222' --chmod=D750,F640 --delete --exclude .git build/ ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_HOST }}:www"
+          rsync -av -e "ssh -p 22222" --chmod=D750,F640 --delete --exclude .git build/ ${{ secrets.SERVER_USERNAME }}@${{ secrets.SERVER_HOST }}:www
